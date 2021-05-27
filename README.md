@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm YamixiZ
 
+I'm not working as programer.<br>
+Programing is my hobby.<br>
+Please teach me if you find how to improve my projects!<br>
 <!--
 **yamixiz/yamixiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
